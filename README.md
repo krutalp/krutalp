@@ -1,13 +1,3 @@
-### Hi there 👋. My name is Krutal!
-- 🔭 I’m currently a Decision Science Intern at Disney, working on Media Research projects (ESPN, ABC, FX, Disney Chanel)
-- 📚 I'm a recent grad from Johns Hopkins University and an incoming masters student at GeorgiaTech
-- 📒 Research Interests: Large Scale Network Analytics; Data Engineering pipelines; GenAI applications in Media Landscapes
-- 🌱 I’m currently learning Computational Graph Theory, Numerical Analysis
-- 👯 I’m looking to collaborate on Data Science and Analytics Projects
-- 📫 How to reach me: kpate111@jhu.edu
-- 😄 Pronouns: He/Him/His
-
-
 ![](https://komarev.com/ghpvc/?username=alamin2731&style=flat&color=blue)
 
 <h1 align="center">Hi there,  I'm Krutal! <img src=
@@ -20,8 +10,14 @@
 
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I’m currently a Decision Science Intern at Disney, working on Media Research projects (ESPN, ABC, FX, Disney Chanel)
-
+- 🔭 I’m currently a Decision Science Intern at Disney, working on Media Research projects (ESPN, ABC, FX, Disney Chanel)
+- 📚 I'm a recent grad from Johns Hopkins University and an incoming masters student at GeorgiaTech
+- 📒 Research Interests: Large Scale Network Analytics; Data Engineering pipelines; GenAI applications in Media Landscapes
+- 🌱 I’m currently learning Computational Graph Theory, Numerical Analysis
+- 👯 I’m looking to collaborate on Data Science and Analytics Projects
+- 📫 How to reach me: kpate111@jhu.edu
+- 😄 Pronouns: He/Him/His
+  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=krutalp&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
