@@ -3,7 +3,7 @@
 <h1 align="center">Hi there,  I'm Krutal! <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center" style="border: px solid #000000;>
+<div align="center" style="border: px solid #000000;>   
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Statistics+Student;Data+Scientist;Researcher;)](https://git.io/typing-svg)
 </div>
