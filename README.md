@@ -17,6 +17,12 @@
 - 👯 I’m looking to collaborate on Data Science and Analytics Projects
 - 📫 How to reach me: kpate111@jhu.edu
 - 😄 Pronouns: He/Him/His
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Experiences</b>
+
+<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=krutalp&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+
+
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
